@@ -1,4 +1,4 @@
-#include "ishant.h"
+#include "aporva.h"
 #include <stdio.h>
 #include <math.h>
 void displayArray(int arr[], int size) {
